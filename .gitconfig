@@ -1,0 +1,11 @@
+[push]
+	default = simple
+[user]
+	email = patrick.doc@ameritech.net
+	name = Patrick Dougherty
+[diff]
+	tool = vimdiff
+[merge]
+	tool = vimdiff
+[difftool]
+	prompt = false
