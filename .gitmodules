@@ -1,0 +1,9 @@
+[submodule ".vim/pack/latex/start/LaTeX-Box"]
+	path = .vim/pack/latex/start/LaTeX-Box
+	url = https://github.com/LaTeX-Box-Team/LaTeX-Box.git
+[submodule ".vim/pack/status/start/vim-airline"]
+	path = .vim/pack/status/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule ".vim/pack/wiki/start/vimwiki"]
+	path = .vim/pack/wiki/start/vimwiki
+	url = https://github.com/vimwiki/vimwiki.git
