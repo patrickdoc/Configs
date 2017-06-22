@@ -1,7 +1,7 @@
 export PATH="$HOME/Library/Haskell/bin:$PATH"
 export PATH="$HOME/.local/arcanist/bin:$PATH"
-set -o vi
 
+set -o vi
 export EDITOR=vim
 
 # Aliases
