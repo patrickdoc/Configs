@@ -1,6 +1,5 @@
-export PATH=$HOME/Library/Python/2.7/bin:$PATH
-export PATH=$HOME/Library/Haskell/bin:$PATH
-export PATH=$HOME/.local/bin:$PATH
+export PATH="$HOME/Library/Haskell/bin:$PATH"
+export PATH="$HOME/.local/arcanist/bin:$PATH"
 set -o vi
 
 export EDITOR=vim
